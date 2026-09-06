@@ -85,9 +85,6 @@ body_detected = close_pixels > 500  # Minimum pixels threshold
 - Optimal detection range: 0.5 - 2.5 meters
 - Requires clear line of sight to sensor
 
-## License
-
-MIT
 
 ## Author
 
